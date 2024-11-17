@@ -1,6 +1,8 @@
 Binary Trading Bot with Google Gemini API
 This bot provides binary trading predictions for the selected currency pair and timeframe using the Google Gemini API.
 
+Note- Make sure you have Python installed on your PC.
+
 📱 Access
 
 The bot can be accessed via Telegram, but it must remain online to function.
